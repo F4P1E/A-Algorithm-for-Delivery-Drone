@@ -1,9 +1,3 @@
-I can help you write a `README.md` file for your project based on the content of the notebook you uploaded. Let me first analyze the file, and then I will create a suitable `README.md` for it.
-
-Based on the content of your Jupyter notebook, which focuses on Classical AI, drone navigation, and pathfinding, here's a draft for your `README.md` file:
-
----
-
 # Assignment 2 - Classical AI
 
 **Student Name:** Duong Phu Dong  
